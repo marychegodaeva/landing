@@ -9,6 +9,8 @@ It contains the "header", "hero-block", "tariffs", "faq" and "footer" blocks.
 
 ![image](https://github.com/user-attachments/assets/a368a704-1604-4eca-a04e-817ca167b416)
 
+![image](https://github.com/user-attachments/assets/a5f74cb8-7990-4cb4-beb8-87c68dbd23db)
+
 ![image](https://github.com/user-attachments/assets/7180b348-870e-42b7-92a0-6bc1c979990d)
 
 ![image](https://github.com/user-attachments/assets/55163439-e785-47e1-a4f7-29ce2e1c9bce)
@@ -24,5 +26,5 @@ It contains the "header", "hero-block", "tariffs", "faq" and "footer" blocks.
 
 <hr>
 
-Проект, разработанный в рамках обучения. Представляет собой лендинг.  Выполнен на языке HTML, также в процессе работы использовались таблицы стилей CSS. Использована технология flexbox. Реализовано позиционирование элементов друг относительно друга. Использованы теги <details> и <summary>. Созданы header и footer. Реализованы адаптивные версии. Создано бургер-меню в адаптивной версии.
+Проект, разработанный в рамках обучения. Представляет собой лендинг.  Выполнен на языке HTML, также в процессе работы использовались таблицы стилей CSS. Использована технология flexbox. Реализовано позиционирование элементов друг относительно друга. Использованы теги "details" и "summary". Созданы header и footer. Реализованы адаптивные версии. Создано бургер-меню в адаптивной версии.
 Содержит блоки "header", "hero-block", "тарифы", "faq" и "footer".
