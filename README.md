@@ -7,9 +7,9 @@ A project developed as part of the training. It is a landing page.  It is made i
 
 It contains the "header", "hero-block", "tariffs", "faq" and "footer" blocks.
 
-![image](https://github.com/user-attachments/assets/a368a704-1604-4eca-a04e-817ca167b416)
-
 ![image](https://github.com/user-attachments/assets/a5f74cb8-7990-4cb4-beb8-87c68dbd23db)
+
+![image](https://github.com/user-attachments/assets/a368a704-1604-4eca-a04e-817ca167b416)
 
 ![image](https://github.com/user-attachments/assets/7180b348-870e-42b7-92a0-6bc1c979990d)
 
