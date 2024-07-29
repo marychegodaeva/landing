@@ -3,7 +3,7 @@ student project to create a website
 
 ![image](https://github.com/user-attachments/assets/5f682125-44e5-41ba-9949-fe6a179a861a)
 
-A project developed as part of the training. It is a landing page.  It is made in HTML, CSS style sheets were also used in the process. Flexbox technology is used. The positioning of the elements relative to each other is implemented. The <details> and <summary> tags are used. Header and footer have been created. Adaptive versions are implemented. The burger menu has been created in an adaptive version.
+A project developed as part of the training. It is a landing page.  It is made in HTML, CSS style sheets were also used in the process. Flexbox technology is used. The positioning of the elements relative to each other is implemented. The "details" and "summary" tags are used. Header and footer have been created. Adaptive versions are implemented. The burger menu has been created in an adaptive version.
 
 It contains the "header", "hero-block", "tariffs", "faq" and "footer" blocks.
 
