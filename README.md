@@ -1,4 +1,4 @@
-# the-website-landing
+# landing
 student project to create a website
 
 ![image](https://github.com/user-attachments/assets/5f682125-44e5-41ba-9949-fe6a179a861a)
